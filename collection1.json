@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "b0d61010-b47c-4339-9855-3f2599d1876c",
+		"name": "collection1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20552831"
+	},
+	"item": [
+		{
+			"name": "getmain",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8988",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8988"
+				}
+			},
+			"response": []
+		}
+	]
+}
